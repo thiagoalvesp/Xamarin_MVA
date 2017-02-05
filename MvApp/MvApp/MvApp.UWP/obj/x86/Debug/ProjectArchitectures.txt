@@ -1,0 +1,2 @@
+C:\Users\thiag\Desktop\Xamarin_MVA\MvApp\MvApp\MvApp.UWP\MvApp.UWP.csproj;x86
+C:\Users\thiag\Desktop\Xamarin_MVA\MvApp\MvApp\MvApp\MvApp.csproj;neutral
